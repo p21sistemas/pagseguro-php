@@ -1,4 +1,4 @@
-###`ESTA BIBLIOTECA ESTÁ DEPRECIADA. Por favor, utilize a nova versão disponível em` https://github.com/pagseguro/php3
+###`ESTA BIBLIOTECA ESTÁ DEPRECIADA. Por favor, utilize a nova versão disponível em` https://github.com/pagseguro/pagseguro-php-sdk
 
 Biblioteca de integração PagSeguro para PHP
 ===========================================
