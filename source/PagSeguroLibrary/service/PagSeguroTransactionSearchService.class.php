@@ -373,7 +373,7 @@ class PagSeguroTransactionSearchService
      * @return bool|PagSeguroTransactionSearchResult
      * @throws PagSeguroServiceException
      */
-    private function searchResult($connection, $initialDate = null, $finalDate = null)
+    private static function searchResult($connection, $initialDate = null, $finalDate = null)
     {
 
         $httpStatus = new PagSeguroHttpStatus($connection->getStatus());
